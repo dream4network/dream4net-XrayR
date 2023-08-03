@@ -51,7 +51,7 @@ Tutorial：[Detailed tutorial](https://xrayr-project.github.io/XrayR-doc/)
 
 ## Software Installation
 
-### One-Click installation
+### One-click installation
 
 ```
 wget -N https://raw.githubusercontent.com/dream4network/dream4net-XrayR-release/master/install.sh && bash install.sh
