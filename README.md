@@ -1,17 +1,11 @@
 # XrayR
 
 [![](https://img.shields.io/badge/TgChat-blue.svg)](https://t.me/V2board_Discussion)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/v2board_panel)
+[![](https://img.shields.io/badge/Channel-blue.svg)](https://t.me/v2board_panel)
 
-[English](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)|[Iranian](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md)|[Vietnamese](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md)
+A Xray backend framework that can easily support many panels. It supports V2ay, Trojan, and Shadowsocks protocols.
 
-A Xray backend framework that can easily support many panels.
-
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接。
-
-如果您喜欢本项目，可以右上角点个star+watch，持续关注本项目的进展。
-
-使用教程：[详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
+Tutorial：(https://xrayr-project.github.io/XrayR-doc/)
 
 
 ## 免责声明
