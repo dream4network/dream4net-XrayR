@@ -1,13 +1,7 @@
 # XrayR
 
-[![](https://img.shields.io/badge/TgChat-@XrayR讨论-blue.svg)](https://t.me/V2board_Discussion)
-[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/v2board_panel)
-![](https://img.shields.io/github/stars/XrayR-project/XrayR)
-![](https://img.shields.io/github/forks/XrayR-project/XrayR)
-![](https://github.com/XrayR-project/XrayR/actions/workflows/release.yml/badge.svg)
-![](https://github.com/XrayR-project/XrayR/actions/workflows/docker.yml/badge.svg)
-[![Github All Releases](https://img.shields.io/github/downloads/XrayR-project/XrayR/total.svg)]()
-
+[![](https://img.shields.io/badge/TgChat)](https://t.me/V2board_Discussion)
+[![](https://img.shields.io/badge/Channel)](https://t.me/v2board_panel)
 
 [English](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)|[Iranian](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md)|[Vietnamese](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md)
 
@@ -63,23 +57,19 @@ A Xray backend framework that can easily support many panels.
 | [ProxyPanel](https://github.com/ProxyPanel/ProxyPanel) | √     | √      | √                       |
 | [WHMCS (V2RaySocks)](https://v2raysocks.doxtex.com/)   | √     | √      | √                       |
 
-## 软件安装
+## Installation
 
-### 一键安装
+### Installation
 
 ```
-wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/dream4network/dream4net-XrayR-release/master/install.sh && bash install.sh
 ```
 
-### 使用Docker部署软件
-
-[Docker部署教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/docker)
-
-### 手动安装
+### Installation
 
 [手动安装教程](https://xrayr-project.github.io/XrayR-doc/xrayr-xia-zai-he-an-zhuang/install/manual)
 
-## 配置文件及详细使用教程
+## Tutorials
 
 [详细使用教程](https://xrayr-project.github.io/XrayR-doc/)
 
@@ -89,10 +79,6 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 * [V2Fly](https://github.com/v2fly)
 * [VNet-V2ray](https://github.com/ProxyPanel/VNet-V2ray)
 * [Air-Universe](https://github.com/crossfw/Air-Universe)
-
-## Licence
-
-[Mozilla Public License Version 2.0](https://github.com/XrayR-project/XrayR/blob/master/LICENSE)
 
 ## Telgram
 
