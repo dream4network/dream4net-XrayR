@@ -1,7 +1,7 @@
 # XrayR
 
-[![](https://img.shields.io/badge/TgChat)](https://t.me/V2board_Discussion)
-[![](https://img.shields.io/badge/Channel)](https://t.me/v2board_panel)
+[![](https://img.shields.io/badge/TgChat-blue.svg)](https://t.me/V2board_Discussion)
+[![](https://img.shields.io/badge/Channel-@XrayR通知-blue.svg)](https://t.me/v2board_panel)
 
 [English](https://github.com/XrayR-project/XrayR/blob/master/README-en.md)|[Iranian](https://github.com/XrayR-project/XrayR/blob/master/README_Fa.md)|[Vietnamese](https://github.com/XrayR-project/XrayR/blob/master/README-vi.md)
 
