@@ -96,12 +96,8 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 
 ## Telgram
 
-[XrayR后端讨论](https://t.me/XrayR_project)
+[Discussion Group](https://t.me/V2board_Discussion)
 
-[XrayR通知](https://t.me/XrayR_channel)
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/XrayR-project/XrayR.svg)](https://starchart.cc/XrayR-project/XrayR)
+[Channel](https://t.me/v2board_panel)
 
 
