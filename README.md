@@ -96,7 +96,7 @@ wget -N https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/ins
 
 ## Telgram
 
-[Discussion Group](https://t.me/V2board_Discussion)
+[Group](https://t.me/V2board_Discussion)
 
 [Channel](https://t.me/v2board_panel)
 
