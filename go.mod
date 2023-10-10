@@ -15,13 +15,13 @@ require (
 	github.com/imdario/mergo v0.3.16
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/r3labs/diff/v2 v2.15.1
-	github.com/sagernet/sing v0.2.7
-	github.com/sagernet/sing-shadowsocks v0.2.2
+	github.com/sagernet/sing v0.2.11
+	github.com/sagernet/sing-shadowsocks v0.2.5
 	github.com/shirou/gopsutil/v3 v3.23.6
 	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.4
 	github.com/xtls/xray-core v1.8.3
-	golang.org/x/crypto v0.11.0
+	golang.org/x/crypto v0.13.0
 	golang.org/x/net v0.12.0
 	golang.org/x/time v0.3.0
 	google.golang.org/protobuf v1.31.0
@@ -180,8 +180,8 @@ require (
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1 // indirect
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/oauth2 v0.7.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.10.0 // indirect
 	google.golang.org/api v0.122.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
